@@ -13,4 +13,4 @@
 - git:
     local-name: sawyer_simulator
     uri: https://github.com/kevinpowell/sawyer_simulator.git
-    version: master
+    version: noetic_devel
